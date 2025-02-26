@@ -179,9 +179,6 @@ footer {
         justify-content: center;
         align-items: center;
     }
-    .parallax {
-        height: 220vh;
-    }
     .container-content-card {
         line-height: 1.8;
         padding: 10px;
